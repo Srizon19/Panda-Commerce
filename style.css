@@ -1,0 +1,6 @@
+
+/* here if you change the bg color of bg-primary then it won't change the color because it's !important. So to impletent customised color then yu have to put this in !important */
+
+.carousel-item{
+    background-color: pink !important;
+}
